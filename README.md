@@ -1,52 +1,85 @@
-# Cześć, jestem drezzz666!
-<p align="center">
-<img src="https://komarev.com/ghpvc/?
-username=drezzz666&color=blueviolet&style=flat-square" alt="Views" />
-<img src="https://img.shields.io/github/followers/drezzz666?
-label=Follow&style=social" />
-</p>
----
-### O mnie
-Jestem pasjonatem technologii, który lubi eksperymentować z kodem i tworzyć ciekawe
-narzędzia. Mój profil to miejsce, gdzie przechowuję swoje projekty, eksperymenty i
-naukę.
-- Aktualnie pracuję nad... **[Wpisz swój projekt]**
-- Uczę się... **[Czego się teraz uczysz?]**
-- Szukam współpracy przy... **ciekawych projektach Open Source**
-- Zapytaj mnie o... **[Twoje ulubione technologie]**
-- Ciekawostka: **[Coś o Tobie!]**
----
-### 🛠 Technologie i Narzędzia
-<p align="left">
-<img src="https://skillicons.dev/icons?
-i=py,js,react,nodejs,git,github,vscode,docker" />
-</p>
+# 👋 Hi, I'm DreZZZ
+
+<div align="center">
+
+### Passionate Developer | Problem Solver | Tech Enthusiast
+
+</div>
 
 ---
-### Statystyki GitHub
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?
-username=drezzz666&show_icons=true&theme=tokyonight&count_private=true"
-alt="Statystyki drezzz666" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?
-username=drezzz666&layout=compact&theme=tokyonight&hide_border=true"
-alt="Najczęstsze języki" />
-</p>
+
+## 🚀 About Me
+
+I'm a developer focused on building clean, efficient code and creating engaging web experiences. I love learning new technologies and tackling challenging problems. Always open to collaborating on interesting projects.
+
 ---
 
-### Kontakt
-<p align="left">
-<a href="mailto:twoj@email.com">
+## 💻 Technical Skills
 
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-
-badge&logo=gmail&logoColor=white" />
+<div align="center">
 
-</a>
-<a href="https://linkedin.com/in/twoj-profil">
+### Languages & Technologies
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-
-badge&logo=linkedin&logoColor=white" />
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-</a>
-</p>
+</div>
+
+**C++** — High-performance applications, system programming, competitive programming
+
+**JavaScript** — Web development, interactive applications, modern ES6+
+
+**HTML5** — Semantic markup, accessibility, responsive design
+
+**CSS3** — Styling, animations, flexbox, grid, responsive layouts
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![DreZZZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=DreZZZ&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DreZZZ&layout=compact&theme=dark)](https://github.com/DreZZZ)
+
+</div>
+
+---
+
+## 🛠️ What I'm Working On
+
+- 🎯 Expanding JavaScript expertise with modern frameworks
+- 🧠 Deepening C++ knowledge for systems programming
+- 🎨 Creating responsive and beautiful web interfaces
+- 📚 Contributing to open-source projects
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/DreZZZ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+## ✨ Fun Facts
+
+- 💡 Love debugging code — it's like solving a puzzle
+- 🎮 Enjoy competitive programming challenges
+- 📖 Always learning and exploring new technologies
+
+---
+
+<div align="center">
+
+**Thanks for visiting my profile! Feel free to explore my projects.** 🙌
+
+</div>
