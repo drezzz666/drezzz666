@@ -41,9 +41,9 @@ I'm a developer focused on building clean, efficient code and creating engaging 
 
 <div align="center">
 
-![DreZZZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=DreZZZ&show_icons=true&theme=dark)
+![DreZZZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=drezzz666&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DreZZZ&layout=compact&theme=dark)](https://github.com/DreZZZ)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drezzz666&layout=compact&theme=dark)](https://github.com/drezzz666)
 
 </div>
 
