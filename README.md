@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a Larper focused on building sometimes working code and creating engaging web experiences. I love learning new technologies and tackling challenging problems. Always open to collaborating on interesting projects.
+I'm a Larper focused on building sometimes working code and creating engaging web experiences. I love learning new larping technologies and tackling not challenging problems. Always open to collaborating on interesting projects (you make everything for me).
 
 ---
 
