@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Passionate Developer | Problem Solver | Tech Enthusiast
+### Passionate Larper | Problem Maker
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a developer focused on building clean, efficient code and creating engaging web experiences. I love learning new technologies and tackling challenging problems. Always open to collaborating on interesting projects.
+I'm a Larper focused on building sometimes working code and creating engaging web experiences. I love learning new technologies and tackling challenging problems. Always open to collaborating on interesting projects.
 
 ---
 
@@ -18,22 +18,7 @@ I'm a developer focused on building clean, efficient code and creating engaging 
 
 <div align="center">
 
-### Languages & Technologies
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
-
-**C++** — High-performance applications, system programming, competitive programming
-
-**JavaScript** — Web development, interactive applications, modern ES6+
-
-**HTML5** — Semantic markup, accessibility, responsive design
-
-**CSS3** — Styling, animations, flexbox, grid, responsive layouts
+### NONE
 
 ---
 
@@ -51,10 +36,10 @@ I'm a developer focused on building clean, efficient code and creating engaging 
 
 ## 🛠️ What I'm Working On
 
-- 🎯 Expanding JavaScript expertise with modern frameworks
-- 🧠 Deepening C++ knowledge for systems programming
-- 🎨 Creating responsive and beautiful web interfaces
-- 📚 Contributing to open-source projects
+- 🎯 Unemployment
+- 🧠 Gemini
+- 🎨 Antigravity
+- 📚 Hopes
 
 ---
 
@@ -71,8 +56,7 @@ I'm a developer focused on building clean, efficient code and creating engaging 
 
 ## ✨ Fun Facts
 
-- 💡 Love debugging code — it's like solving a puzzle
-- 🎮 Enjoy competitive programming challenges
+- 🎮 Enjoy competitive programming challenges like jerkmate
 - 📖 Always learning and exploring new technologies
 
 ---
