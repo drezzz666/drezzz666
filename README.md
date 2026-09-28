@@ -22,17 +22,6 @@ I'm a Larper focused on building sometimes working code and creating engaging we
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![DreZZZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=drezzz666&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drezzz666&layout=compact&theme=dark)](https://github.com/drezzz666)
-
-</div>
-
----
 
 ## 🛠️ What I'm Working On
 
